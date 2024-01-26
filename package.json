@@ -1,0 +1,16 @@
+{
+  "name": "simple-http-assignment-start",
+  "version": "1.0.0",
+  "engines": {
+    "node": "18.16.1",
+    "npm" : "9.5.1"
+  },
+  "description": "\"simple http assignment\"",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"No Tests\""
+  },
+  "author": "De'Andre Perry",
+  "license": "UNLICENSED"
+}
